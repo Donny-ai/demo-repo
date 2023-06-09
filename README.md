@@ -6,10 +6,10 @@
 
 ### Table of Contents
 
-    1. [code folder](https://github.com/Donny-ai/demo-repo/tree/main/code)
-    2. [data folder](https://github.com/Donny-ai/demo-repo/tree/main/data)
-    3. [images folder](https://github.com/Donny-ai/demo-repo/tree/main/images)
-    4. [reference folder](https://github.com/Donny-ai/demo-repo/tree/main/references)
+1. [code folder](/code)
+2. [data folder](/data)
+3. [images folder](/images)
+4. [reference folder](/references)
 
 ***
 
