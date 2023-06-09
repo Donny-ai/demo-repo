@@ -6,10 +6,10 @@
 
 ### Table of Contents
 
-    1. [code folder](./code)
-    2. [data folder](./data)
-    3. [images folder](./images)
-    4. [reference folder](./references)
+    1. [code folder](main/code)
+    2. [data folder](main/data)
+    3. [images folder](main/images)
+    4. [reference folder](main/references)
 
 ***
 
